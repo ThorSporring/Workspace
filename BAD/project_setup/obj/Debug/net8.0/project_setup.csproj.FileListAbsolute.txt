@@ -1,0 +1,15 @@
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\bin\Debug\net8.0\project_setup.exe
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\bin\Debug\net8.0\project_setup.deps.json
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\bin\Debug\net8.0\project_setup.runtimeconfig.json
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\bin\Debug\net8.0\project_setup.dll
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\bin\Debug\net8.0\project_setup.pdb
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\obj\Debug\net8.0\project_setup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\obj\Debug\net8.0\project_setup.AssemblyInfoInputs.cache
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\obj\Debug\net8.0\project_setup.AssemblyInfo.cs
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\obj\Debug\net8.0\project_setup.csproj.CoreCompileInputs.cache
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\obj\Debug\net8.0\project_setup.sourcelink.json
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\obj\Debug\net8.0\project_setup.dll
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\obj\Debug\net8.0\refint\project_setup.dll
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\obj\Debug\net8.0\project_setup.pdb
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\obj\Debug\net8.0\project_setup.genruntimeconfig.cache
+C:\Users\spott\OneDrive - Aarhus Universitet\Dokumenter\Obsidian Vault\6. semester\Workspace\BAD\project_setup\obj\Debug\net8.0\ref\project_setup.dll
