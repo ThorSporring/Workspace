@@ -1,0 +1,30 @@
+name: mybglist_and_db
+services:
+  backend:
+    image: mybglistimage
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Staging"
+      ASPNETCORE_URLS: "http://+:55221"
+    ports: 
+    - "55221:55221"
+    volumes:
+    - my-vol:/tmp
+    - .:/code
+    depends_on:
+      - db
+  db:
+    container_name: mssql-server
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    user: root
+    volumes:
+      - sql-data:/var/opt/mssql/data
+    environment:
+      MSSQL_SA_PASSWORD: "<123123>"
+      ACCEPT_EULA: "Y"
+    ports:
+    - "1433:1433"
+volumes:
+  my-vol:
+    name: my-vol-db
+  sql-data:
+    name: sql-volume
