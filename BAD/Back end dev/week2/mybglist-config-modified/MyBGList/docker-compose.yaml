@@ -1,6 +1,7 @@
 name: mybglist_and_db
 services:
   backend:
+    build: .
     image: mybglistimage
     environment:
       ASPNETCORE_ENVIRONMENT: "Staging"

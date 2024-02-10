@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LAB1_C", "LAB1_C\LAB1_C.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
 EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LAB3_Alphanumeric_display", "LAB3_Alphanumeric_display\LAB3_Alphanumeric_display.cproj", "{C05247DC-6B60-4D49-819E-A676EA1A56C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -15,6 +17,10 @@ Global
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{C05247DC-6B60-4D49-819E-A676EA1A56C2}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C05247DC-6B60-4D49-819E-A676EA1A56C2}.Debug|AVR.Build.0 = Debug|AVR
+		{C05247DC-6B60-4D49-819E-A676EA1A56C2}.Release|AVR.ActiveCfg = Release|AVR
+		{C05247DC-6B60-4D49-819E-A676EA1A56C2}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

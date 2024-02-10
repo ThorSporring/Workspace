@@ -1,0 +1,23 @@
+# Learn about building .NET container images:
+# https://github.com/dotnet/dotnet-docker/blob/main/samples/README.md
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
+WORKDIR /source
+
+
+# copy csproj and restore as distinct layers
+COPY bakery-data/*.csproj bakery-data/
+COPY bakery-api/*.csproj bakery-api/
+COPY bakery-api.sln .
+RUN dotnet restore bakery-api.sln
+
+# copy everything else and build app
+COPY bakery-data/. bakery-data/
+COPY bakery-api/. bakery-api/
+RUN dotnet publish --os linux --arch x64 -c release -o /app
+
+    
+# final stage/image
+FROM mcr.microsoft.com/dotnet/aspnet:7.0
+WORKDIR /app
+COPY --from=build /app .
+ENTRYPOINT ["dotnet", "bakery-api.dll"]

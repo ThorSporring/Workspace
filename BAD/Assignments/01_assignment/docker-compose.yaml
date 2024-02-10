@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    image: robbienobnob/sw4bad_hub:bakeryapi
+    environment:
+      ASPNETCORE_URLS: "http://+:1030"
+    ports: 
+    - "6060:1030"
+    networks:
+    - backend-network
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile.web
+    image: robbienobnob/sw4bad_hub:bakeryapi
+    environment:
+      ASPNETCORE_URLS: "http://+:1030"
+      API_URL: "http://api:1030"
+    ports: 
+    - "5050:1030"
+    depends_on:
+      - api
+    networks:
+      - backend-network
+
+networks:
+  backend-network:
+    driver: bridge
+  
