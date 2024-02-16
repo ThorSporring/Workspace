@@ -54,6 +54,9 @@ builder.Services.AddSwaggerGen(options => {
     options.SwaggerDoc(
     "v2",
     new OpenApiInfo { Title = "MyBGList", Version = "v2.0" });
+    options.SwaggerDoc(
+    "v3",
+    new OpenApiInfo { Title = "MyBGList", Version = "v3.0" });
 });
 
 
@@ -70,6 +73,9 @@ if (app.Environment.IsDevelopment())
         options.SwaggerEndpoint(
         $"/swagger/v2/swagger.json",
         $"MyBGList v2");
+        options.SwaggerEndpoint(
+        $"/swagger/v3/swagger.json",
+        $"MyBGList v3");
     });
 }
 
@@ -123,6 +129,10 @@ v1.MapGet("/", () => "This is a simple demo");
 var v2 = demo.MapGroup("/demo/v{version:apiVersion}")
     .HasApiVersion(2.0);
 v2.MapGet("/", () => "This is v2");
+
+var v3 = demo.MapGroup("/demo/v{version:apiVersion}")
+    .HasApiVersion(3.0);
+v3.MapGet("/", () => "This is v3");
 
 // Controllers
 app.MapControllers();

@@ -7,6 +7,8 @@ Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LAB1_C", "LAB1_C\LAB1_C.cpr
 EndProject
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LAB3_Alphanumeric_display", "LAB3_Alphanumeric_display\LAB3_Alphanumeric_display.cproj", "{C05247DC-6B60-4D49-819E-A676EA1A56C2}"
 EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LAB4_Graphic", "LAB4_Graphic\LAB4_Graphic.cproj", "{57235530-F011-4EC6-B04C-AD6205C03948}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -21,6 +23,10 @@ Global
 		{C05247DC-6B60-4D49-819E-A676EA1A56C2}.Debug|AVR.Build.0 = Debug|AVR
 		{C05247DC-6B60-4D49-819E-A676EA1A56C2}.Release|AVR.ActiveCfg = Release|AVR
 		{C05247DC-6B60-4D49-819E-A676EA1A56C2}.Release|AVR.Build.0 = Release|AVR
+		{57235530-F011-4EC6-B04C-AD6205C03948}.Debug|AVR.ActiveCfg = Debug|AVR
+		{57235530-F011-4EC6-B04C-AD6205C03948}.Debug|AVR.Build.0 = Debug|AVR
+		{57235530-F011-4EC6-B04C-AD6205C03948}.Release|AVR.ActiveCfg = Release|AVR
+		{57235530-F011-4EC6-B04C-AD6205C03948}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

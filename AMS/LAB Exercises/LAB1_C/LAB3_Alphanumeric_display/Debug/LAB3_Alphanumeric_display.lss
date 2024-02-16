@@ -17,15 +17,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING
   6 .debug_abbrev 00000e3d  00000000  00000000  00001833  2**0
                   CONTENTS, READONLY, DEBUGGING
-  7 .debug_line   000006cc  00000000  00000000  00002670  2**0
+  7 .debug_line   00000660  00000000  00000000  00002670  2**0
                   CONTENTS, READONLY, DEBUGGING
-  8 .debug_frame  00000178  00000000  00000000  00002d3c  2**2
+  8 .debug_frame  00000178  00000000  00000000  00002cd0  2**2
                   CONTENTS, READONLY, DEBUGGING
-  9 .debug_str    000006fa  00000000  00000000  00002eb4  2**0
+  9 .debug_str    000006b0  00000000  00000000  00002e48  2**0
                   CONTENTS, READONLY, DEBUGGING
- 10 .debug_loc    0000030e  00000000  00000000  000035ae  2**0
+ 10 .debug_loc    0000030e  00000000  00000000  000034f8  2**0
                   CONTENTS, READONLY, DEBUGGING
- 11 .debug_ranges 000000b0  00000000  00000000  000038bc  2**0
+ 11 .debug_ranges 000000b0  00000000  00000000  00003806  2**0
                   CONTENTS, READONLY, DEBUGGING
 
 Disassembly of section .text:
@@ -378,7 +378,7 @@ void LCDDispString(char* str)
 // Displays the value of integer "i" at "current display position"
 void LCDDispInteger(int i)
 {
-  sendData(i+'0');
+	 sendData(i+'0');
  274:	80 5d       	subi	r24, 0xD0	; 208
  276:	9d cf       	rjmp	.-198    	; 0x1b2 <sendData>
  278:	08 95       	ret

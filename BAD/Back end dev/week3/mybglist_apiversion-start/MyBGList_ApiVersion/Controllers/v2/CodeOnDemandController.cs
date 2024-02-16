@@ -1,4 +1,5 @@
 using Asp.Versioning;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using MyBGList.Models;
@@ -9,6 +10,8 @@ namespace MyBGList.Controllers.v2
     [Route("v{version:apiVersion}/[controller]")]
     [ApiController]
     [ApiVersion("2.0")]
+    [EnableCors("AnyOrigin_GetOnly")]
+    [ResponseCache(NoStore = true)]
     public class CodeOnDemandController : ControllerBase
     {
 
