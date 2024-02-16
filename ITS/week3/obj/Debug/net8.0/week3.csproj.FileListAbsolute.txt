@@ -1,0 +1,15 @@
+D:\repos\Workspace\ITS\week3\bin\Debug\net8.0\week3.exe
+D:\repos\Workspace\ITS\week3\bin\Debug\net8.0\week3.deps.json
+D:\repos\Workspace\ITS\week3\bin\Debug\net8.0\week3.runtimeconfig.json
+D:\repos\Workspace\ITS\week3\bin\Debug\net8.0\week3.dll
+D:\repos\Workspace\ITS\week3\bin\Debug\net8.0\week3.pdb
+D:\repos\Workspace\ITS\week3\obj\Debug\net8.0\week3.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Workspace\ITS\week3\obj\Debug\net8.0\week3.AssemblyInfoInputs.cache
+D:\repos\Workspace\ITS\week3\obj\Debug\net8.0\week3.AssemblyInfo.cs
+D:\repos\Workspace\ITS\week3\obj\Debug\net8.0\week3.csproj.CoreCompileInputs.cache
+D:\repos\Workspace\ITS\week3\obj\Debug\net8.0\week3.sourcelink.json
+D:\repos\Workspace\ITS\week3\obj\Debug\net8.0\week3.dll
+D:\repos\Workspace\ITS\week3\obj\Debug\net8.0\refint\week3.dll
+D:\repos\Workspace\ITS\week3\obj\Debug\net8.0\week3.pdb
+D:\repos\Workspace\ITS\week3\obj\Debug\net8.0\week3.genruntimeconfig.cache
+D:\repos\Workspace\ITS\week3\obj\Debug\net8.0\ref\week3.dll
