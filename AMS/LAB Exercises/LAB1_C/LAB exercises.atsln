@@ -9,6 +9,10 @@ Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LAB3_Alphanumeric_display",
 EndProject
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LAB4_Graphic", "LAB4_Graphic\LAB4_Graphic.cproj", "{57235530-F011-4EC6-B04C-AD6205C03948}"
 EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LAB8_USB", "LAB8_USB\LAB8_USB.cproj", "{8B2DE6A4-0741-4AAF-A0B2-C6C4BE955B5A}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LAB8", "C:\Users\spott\Downloads\MAX_MA\MAX_MA\LAB8\LAB8.cproj", "{F47ACA0F-5087-4A54-B83E-CB9964D39B28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -27,6 +31,14 @@ Global
 		{57235530-F011-4EC6-B04C-AD6205C03948}.Debug|AVR.Build.0 = Debug|AVR
 		{57235530-F011-4EC6-B04C-AD6205C03948}.Release|AVR.ActiveCfg = Release|AVR
 		{57235530-F011-4EC6-B04C-AD6205C03948}.Release|AVR.Build.0 = Release|AVR
+		{8B2DE6A4-0741-4AAF-A0B2-C6C4BE955B5A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8B2DE6A4-0741-4AAF-A0B2-C6C4BE955B5A}.Debug|AVR.Build.0 = Debug|AVR
+		{8B2DE6A4-0741-4AAF-A0B2-C6C4BE955B5A}.Release|AVR.ActiveCfg = Release|AVR
+		{8B2DE6A4-0741-4AAF-A0B2-C6C4BE955B5A}.Release|AVR.Build.0 = Release|AVR
+		{F47ACA0F-5087-4A54-B83E-CB9964D39B28}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F47ACA0F-5087-4A54-B83E-CB9964D39B28}.Debug|AVR.Build.0 = Debug|AVR
+		{F47ACA0F-5087-4A54-B83E-CB9964D39B28}.Release|AVR.ActiveCfg = Release|AVR
+		{F47ACA0F-5087-4A54-B83E-CB9964D39B28}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
