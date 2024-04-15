@@ -3452,24 +3452,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\au443291\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\spott\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Courses\\SW4BAD\\Lessons\\06-2 Modelbinding and validation\\Exercises\\MyBGList_Chap6\\MyBGList_Chap6\\MyBGList_Chap6.csproj",
+      "projectUniqueName": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\MyBGList_Chap6.csproj",
       "projectName": "MyBGList_Chap6",
-      "projectPath": "C:\\Courses\\SW4BAD\\Lessons\\06-2 Modelbinding and validation\\Exercises\\MyBGList_Chap6\\MyBGList_Chap6\\MyBGList_Chap6.csproj",
-      "packagesPath": "C:\\Users\\au443291\\.nuget\\packages\\",
-      "outputPath": "C:\\Courses\\SW4BAD\\Lessons\\06-2 Modelbinding and validation\\Exercises\\MyBGList_Chap6\\MyBGList_Chap6\\obj\\",
+      "projectPath": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\MyBGList_Chap6.csproj",
+      "packagesPath": "C:\\Users\\spott\\.nuget\\packages\\",
+      "outputPath": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\au443291\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\spott\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3477,7 +3476,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3490,6 +3488,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3544,6 +3547,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -3552,7 +3573,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

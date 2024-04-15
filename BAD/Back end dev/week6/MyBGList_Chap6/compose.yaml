@@ -1,6 +1,6 @@
 services:
   db:
-    container_name: mssql-server
+    container_name: mssql-server-w6
     image: mcr.microsoft.com/mssql/server:2019-latest
     environment:
       MSSQL_SA_PASSWORD: "YourStrong@Passw0rd"

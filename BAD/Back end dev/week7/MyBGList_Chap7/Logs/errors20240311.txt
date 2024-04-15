@@ -1,0 +1,12 @@
+15:48 [ERR] [IDEAPAD_THOR #14 .NET TP Worker] An unhandled exception has occurred while executing the request.
+System.Exception: test
+   at Program.<>c.<<Main>$>b__0_7() in D:\repos\Workspace\BAD\Back end dev\week7\MyBGList_Chap7\Program.cs:line 166
+   at lambda_method7(Closure, Object, HttpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+15:48 [ERR] [IDEAPAD_THOR #14 .NET TP Worker] An unhandled exception occurred. Error message: test
+System.Exception: test
+   at Program.<>c.<<Main>$>b__0_7() in D:\repos\Workspace\BAD\Back end dev\week7\MyBGList_Chap7\Program.cs:line 166
+   at lambda_method7(Closure, Object, HttpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)

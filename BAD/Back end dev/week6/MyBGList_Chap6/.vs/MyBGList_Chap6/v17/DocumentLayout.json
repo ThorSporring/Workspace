@@ -1,0 +1,491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\models\\mechanic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\models\\mechanic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\dto\\mechanicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\dto\\mechanicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\dto\\linkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\dto\\linkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\dto\\domaindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\dto\\domaindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\models\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\models\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\dto\\boardgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\dto\\boardgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\models\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\models\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\models\\csv\\bggrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\models\\csv\\bggrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\data\\bgg_dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\data\\bgg_dataset.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\swagger\\sortorderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\swagger\\sortorderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\swagger\\sortcolumnfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\swagger\\sortcolumnfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\controllers\\boardgamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\controllers\\boardgamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\attributes\\sortordervalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\attributes\\sortordervalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\attributes\\sortcolumnvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\attributes\\sortcolumnvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\dto\\restdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\dto\\restdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\models\\boardgames_domains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\models\\boardgames_domains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\mybglist_chap6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\mybglist_chap6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\controllers\\mechanicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\controllers\\mechanicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\lettersonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\lettersonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\attributes\\manualvalidationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\attributes\\manualvalidationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\models\\boardgames_mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\models\\boardgames_mechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\controllers\\domainscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\controllers\\domainscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|d:\\repos\\workspace\\bad\\back end dev\\week6\\mybglist_chap6\\mybglist_chap6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04FA8A1E-9BE5-46EB-BDA3-4B36F46D18CB}|MyBGList_Chap6\\MyBGList_Chap6.csproj|solutionrelative:mybglist_chap6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkDTO.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\DTO\\LinkDTO.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\DTO\\LinkDTO.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\DTO\\LinkDTO.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\DTO\\LinkDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:09:21.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bgg_dataset.csv",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Data\\bgg_dataset.csv",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Data\\bgg_dataset.csv",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Data\\bgg_dataset.csv",
+              "RelativeToolTip": "MyBGList_Chap6\\Data\\bgg_dataset.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-03-20T18:42:36.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BggRecord.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Models\\Csv\\BggRecord.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Models\\Csv\\BggRecord.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Models\\Csv\\BggRecord.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Models\\Csv\\BggRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:50:48.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoardGameDTO.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\DTO\\BoardGameDTO.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\DTO\\BoardGameDTO.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\DTO\\BoardGameDTO.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\DTO\\BoardGameDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:29:48.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MyBGList_Chap6",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\MyBGList_Chap6.csproj",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\MyBGList_Chap6.csproj",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\MyBGList_Chap6.csproj",
+              "RelativeToolTip": "MyBGList_Chap6\\MyBGList_Chap6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T20:16:04.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RequestDTO.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\DTO\\RequestDTO.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\DTO\\RequestDTO.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\DTO\\RequestDTO.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\DTO\\RequestDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:13:28.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RestDTO.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\DTO\\RestDTO.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\DTO\\RestDTO.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\DTO\\RestDTO.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\DTO\\RestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:11:57.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:14:07.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SortOrderValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Attributes\\SortOrderValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Attributes\\SortOrderValidatorAttribute.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Attributes\\SortOrderValidatorAttribute.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Attributes\\SortOrderValidatorAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:15:57.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SortColumnValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Attributes\\SortColumnValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Attributes\\SortColumnValidatorAttribute.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Attributes\\SortColumnValidatorAttribute.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Attributes\\SortColumnValidatorAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:15:55.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyBGList_Chap6\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T13:13:50.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SortColumnFilter.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Swagger\\SortColumnFilter.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Swagger\\SortColumnFilter.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Swagger\\SortColumnFilter.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Swagger\\SortColumnFilter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:08:22.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SortOrderFilter.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Swagger\\SortOrderFilter.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Swagger\\SortOrderFilter.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Swagger\\SortOrderFilter.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Swagger\\SortOrderFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:08:19.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mechanic.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Models\\Mechanic.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Models\\Mechanic.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Models\\Mechanic.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Models\\Mechanic.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:02:40.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Domain.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Models\\Domain.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Models\\Domain.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Models\\Domain.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Models\\Domain.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:02:38.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BoardGames_Mechanics.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Models\\BoardGames_Mechanics.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Models\\BoardGames_Mechanics.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Models\\BoardGames_Mechanics.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Models\\BoardGames_Mechanics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:02:37.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BoardGames_Domains.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Models\\BoardGames_Domains.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Models\\BoardGames_Domains.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Models\\BoardGames_Domains.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Models\\BoardGames_Domains.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:02:35.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoardGame.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Models\\BoardGame.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Models\\BoardGame.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Models\\BoardGame.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Models\\BoardGame.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:02:31.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LettersOnly.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\LettersOnly.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\LettersOnly.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\LettersOnly.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\LettersOnly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:42:06.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DomainDTO.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\DTO\\DomainDTO.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\DTO\\DomainDTO.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\DTO\\DomainDTO.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\DTO\\DomainDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:30:47.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\appsettings.Development.json",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\appsettings.Development.json",
+              "RelativeToolTip": "MyBGList_Chap6\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T10:07:35.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\appsettings.json",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\appsettings.json",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\appsettings.json",
+              "RelativeToolTip": "MyBGList_Chap6\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T10:07:35.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeedController.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Controllers\\SeedController.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Controllers\\SeedController.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Controllers\\SeedController.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Controllers\\SeedController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAjwDAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:07:35.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MechanicsController.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Controllers\\MechanicsController.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Controllers\\MechanicsController.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Controllers\\MechanicsController.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Controllers\\MechanicsController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:07:35.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DomainsController.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Controllers\\DomainsController.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Controllers\\DomainsController.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Controllers\\DomainsController.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Controllers\\DomainsController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAvwIYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:07:35.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BoardGamesController.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Controllers\\BoardGamesController.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Controllers\\BoardGamesController.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Controllers\\BoardGamesController.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Controllers\\BoardGamesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:07:35.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Program.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Program.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Program.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Program.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAACUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:07:35.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MechanicDTO.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\DTO\\MechanicDTO.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\DTO\\MechanicDTO.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\DTO\\MechanicDTO.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\DTO\\MechanicDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:44:02.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManualValidationFilterAttribute.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Attributes\\ManualValidationFilterAttribute.cs",
+              "RelativeDocumentMoniker": "MyBGList_Chap6\\Attributes\\ManualValidationFilterAttribute.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week6\\MyBGList_Chap6\\MyBGList_Chap6\\Attributes\\ManualValidationFilterAttribute.cs",
+              "RelativeToolTip": "MyBGList_Chap6\\Attributes\\ManualValidationFilterAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:07:35.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

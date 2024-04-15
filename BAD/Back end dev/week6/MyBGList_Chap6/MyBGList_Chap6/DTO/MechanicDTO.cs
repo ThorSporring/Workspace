@@ -8,7 +8,7 @@ namespace MyBGList.DTO
     {
         [Required]
         public int Id { get; set; }
-
+        [LettersOnly]
         public string? Name { get; set; }
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryModelUsingEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0da70a7e5e52bccd88d0b0bdb54bdee6b1476f8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d79e49048812f9154a65c13fb109d9029bb09f0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryModelUsingEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryModelUsingEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

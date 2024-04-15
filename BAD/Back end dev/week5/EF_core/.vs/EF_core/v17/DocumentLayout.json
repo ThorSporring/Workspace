@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3941A6F9-7C07-491C-AA40-862910CAB1F7}|Ex1\\Ex1.csproj|d:\\repos\\workspace\\bad\\back end dev\\week5\\ef_core\\ex1\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3941A6F9-7C07-491C-AA40-862910CAB1F7}|Ex1\\Ex1.csproj|solutionrelative:ex1\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3941A6F9-7C07-491C-AA40-862910CAB1F7}|Ex1\\Ex1.csproj|d:\\repos\\workspace\\bad\\back end dev\\week5\\ef_core\\ex1\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3941A6F9-7C07-491C-AA40-862910CAB1F7}|Ex1\\Ex1.csproj|solutionrelative:ex1\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986BD49F-14E5-4E48-8746-853D66E7B47A}|EX2\\EX2.csproj|d:\\repos\\workspace\\bad\\back end dev\\week5\\ef_core\\ex2\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986BD49F-14E5-4E48-8746-853D66E7B47A}|EX2\\EX2.csproj|solutionrelative:ex2\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3941A6F9-7C07-491C-AA40-862910CAB1F7}|Ex1\\Ex1.csproj|d:\\repos\\workspace\\bad\\back end dev\\week5\\ef_core\\ex1\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3941A6F9-7C07-491C-AA40-862910CAB1F7}|Ex1\\Ex1.csproj|solutionrelative:ex1\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3941A6F9-7C07-491C-AA40-862910CAB1F7}|Ex1\\Ex1.csproj|d:\\repos\\workspace\\bad\\back end dev\\week5\\ef_core\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3941A6F9-7C07-491C-AA40-862910CAB1F7}|Ex1\\Ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986BD49F-14E5-4E48-8746-853D66E7B47A}|EX2\\EX2.csproj|d:\\repos\\workspace\\bad\\back end dev\\week5\\ef_core\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986BD49F-14E5-4E48-8746-853D66E7B47A}|EX2\\EX2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA243CF-599A-4B93-AF01-4F77750725B5}|Ex3\\Ex3.csproj|d:\\repos\\workspace\\bad\\back end dev\\week5\\ef_core\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA243CF-599A-4B93-AF01-4F77750725B5}|Ex3\\Ex3.csproj|solutionrelative:ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\Ex1\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Ex1\\MyDbContext.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\Ex1\\MyDbContext.cs",
+              "RelativeToolTip": "Ex1\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:46:41.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\Ex1\\Post.cs",
+              "RelativeDocumentMoniker": "Ex1\\Post.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\Ex1\\Post.cs*",
+              "RelativeToolTip": "Ex1\\Post.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:34:20.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\Ex1\\Blog.cs",
+              "RelativeDocumentMoniker": "Ex1\\Blog.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\Ex1\\Blog.cs",
+              "RelativeToolTip": "Ex1\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:34:18.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\EX2\\Program.cs",
+              "RelativeDocumentMoniker": "EX2\\Program.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\EX2\\Program.cs",
+              "RelativeToolTip": "EX2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:34:08.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\EX2\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "EX2\\MyDbContext.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\EX2\\MyDbContext.cs",
+              "RelativeToolTip": "EX2\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:47:03.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Ex3\\Program.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\Ex3\\Program.cs",
+              "RelativeToolTip": "Ex3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:17:20.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\Ex1\\Program.cs",
+              "RelativeDocumentMoniker": "Ex1\\Program.cs",
+              "ToolTip": "D:\\repos\\Workspace\\BAD\\Back end dev\\week5\\EF_core\\Ex1\\Program.cs",
+              "RelativeToolTip": "Ex1\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:17:09.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
